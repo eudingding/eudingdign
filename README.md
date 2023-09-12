@@ -25,9 +25,25 @@
   :star:EDUCATION:star:
   <br/>
   Pukyong National University<br/>
-  Information and Communication engineering <br/>
+  Information and Communication Engineering <br/>
   (2012~2017)
   <br/><br/>
+
+  :star:PAPERS AND AWARDS:star:
+  <br/>
+  Visible Light Data Transmission and Modulation using Flash Light of Mobile Devices <br/>
+  (2014) <br/>
+  i-Capstone Design: 2nd place <br/>
+  (2015)
+  <br/><br/>
+
+  :star:PATENT:star:
+  VISIBLE LIGHT DATA TRANSMISSION SYSTEM USING MOBILE DEVICE AND VISIBLE LIGHT DATA TRANSMISSION METHOD USING THE SAME<br/>
+  (Application number: 1020150029938) <br/>
+  (Registration Number: 1015440360000) <br/>
+  *Currently expired*
+  <br/><br/>
+  
 
   :star:WORK EXPERIENCE:star:
   <br/>
