@@ -3,7 +3,9 @@
   ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=6731A1&text=EUDINGDING&fontColor=ffea00)  
 
   <a href="https://www.instagram.com/eudingding/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Java&logoColor=white"/> <br/>
+  <img src="https://github.com/eudingding/eudingding/assets/133102699/401ddb98-bb69-4072-a7b0-b2a6d61917b7" width="200">
+
   </a>
 
   :sparkling_heart:
